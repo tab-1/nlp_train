@@ -7,9 +7,6 @@
     |-- requirements.txt    项目依赖描述文件
     |-- models              模型保存文件目录
     |   |-- jieba_userdict.txt
-    |   |-- ltp_data_v3.3.0.zip
-    |   |-- ltp_data_v3.4.0.zip
-    |   |-- ltp_data_v3.3.0
     |   |-- ltp_data_v3.4.0 Ltp模型文件夹
     |       |-- cws.model       ltp分词模型
     |       |-- md5.txt
